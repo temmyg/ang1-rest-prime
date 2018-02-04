@@ -1,0 +1,15 @@
+h2 {
+    text-align: center;
+}
+
+.errorMsg { 
+    color: red;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.no-top, .no-top div {
+    margin-top: 0;
+}

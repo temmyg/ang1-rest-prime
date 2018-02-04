@@ -1,0 +1,18 @@
+{
+  "name": "ang1-rest-prime",
+  "version": "1.0.0",
+  "description": "angular1 proj for seting up a page to call rest endpoing",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest"
+  ],
+  "author": "ge zhou",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
